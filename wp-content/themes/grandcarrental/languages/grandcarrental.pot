@@ -1,0 +1,2235 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-23 16:09+0700\n"
+"PO-Revision-Date: 2016-12-30 16:06+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "404 Not Found!"
+msgstr ""
+
+#: ../404.php:18
+msgid ""
+"We're sorry, the page you have looked for does not exist in our content!"
+msgstr ""
+
+#: ../404.php:32
+msgid "Perhaps you would like to go to our homepage or try searching below."
+msgstr ""
+
+#: ../404.php:35 ../search.php:31
+msgid "Type to search and hit enter..."
+msgstr ""
+
+#: ../404.php:41
+msgid "Or try to browse our latest posts instead?"
+msgstr ""
+
+#: ../404.php:130 ../blog_f.php:210 ../blog_fg.php:221 ../blog_fg.php:302
+#: ../blog_fgl.php:227 ../blog_fgl.php:308 ../blog_fgr.php:227
+#: ../blog_fgr.php:308 ../blog_g.php:175 ../blog_gls.php:178 ../blog_gs.php:179
+#: ../blog_l.php:216 ../blog_r.php:216 ../index.php:145 ../search.php:148
+msgid "Read More"
+msgstr ""
+
+#: ../blog_f.php:180 ../blog_fg.php:191 ../blog_fgl.php:197 ../blog_fgr.php:197
+#: ../blog_l.php:186 ../blog_r.php:186 ../index.php:115 ../search.php:118
+#: ../templates/template-post-header.php:57
+msgid "Comment"
+msgstr ""
+
+#: ../blog_f.php:184 ../blog_fg.php:195 ../blog_fgl.php:201 ../blog_fgr.php:201
+#: ../blog_l.php:190 ../blog_r.php:190 ../comments.php:17 ../index.php:119
+#: ../search.php:122 ../templates/template-post-header.php:61
+msgid "Comments"
+msgstr ""
+
+#: ../blog_f.php:241 ../blog_fg.php:341 ../blog_fgl.php:347 ../blog_fgr.php:347
+#: ../blog_g.php:209 ../blog_gls.php:218 ../blog_gs.php:217 ../blog_l.php:247
+#: ../blog_r.php:247 ../car-2-classic-l.php:291 ../car-2-classic-r.php:291
+#: ../car-2-classic.php:283 ../car-2-grid-l.php:229 ../car-2-grid-r.php:229
+#: ../car-2-grid.php:221 ../car-3-classic.php:283 ../car-3-grid.php:221
+#: ../car-4-classic.php:283 ../car-4-grid.php:158 ../car-list-l.php:315
+#: ../car-list-r.php:315 ../car-list-thumb-l.php:325
+#: ../car-list-thumb-r.php:325 ../index.php:176 ../search.php:179
+msgid "Page"
+msgstr ""
+
+#: ../blog_f.php:241 ../blog_fg.php:341 ../blog_fgl.php:347 ../blog_fgr.php:347
+#: ../blog_g.php:209 ../blog_gls.php:218 ../blog_gs.php:217 ../blog_l.php:247
+#: ../blog_r.php:247 ../car-2-classic-l.php:291 ../car-2-classic-r.php:291
+#: ../car-2-classic.php:283 ../car-2-grid-l.php:229 ../car-2-grid-r.php:229
+#: ../car-2-grid.php:221 ../car-3-classic.php:283 ../car-3-grid.php:221
+#: ../car-4-classic.php:283 ../car-4-grid.php:158 ../car-list-l.php:315
+#: ../car-list-r.php:315 ../car-list-thumb-l.php:325
+#: ../car-list-thumb-r.php:325 ../index.php:176 ../search.php:179
+msgid "of"
+msgstr ""
+
+#: ../car-2-classic-l.php:160 ../car-2-classic-r.php:160
+#: ../car-2-classic.php:152 ../car-3-classic.php:152 ../car-4-classic.php:152
+#: ../car-list-l.php:147 ../car-list-r.php:147 ../car-list-thumb-l.php:147
+#: ../car-list-thumb-r.php:147 ../single-car.php:70 ../single-car.php:553
+msgid "reviews"
+msgstr ""
+
+#: ../car-2-classic-l.php:164 ../car-2-classic-r.php:164
+#: ../car-2-classic.php:156 ../car-3-classic.php:156 ../car-4-classic.php:156
+#: ../car-list-l.php:151 ../car-list-r.php:151 ../car-list-thumb-l.php:151
+#: ../car-list-thumb-r.php:151 ../single-car.php:74 ../single-car.php:557
+msgid "review"
+msgstr ""
+
+#: ../car-2-classic-l.php:249 ../car-2-classic-r.php:249
+#: ../car-2-classic.php:241 ../car-2-grid-l.php:189 ../car-2-grid-r.php:189
+#: ../car-2-grid.php:181 ../car-3-classic.php:241 ../car-3-grid.php:181
+#: ../car-4-classic.php:241 ../car-4-grid.php:118 ../car-list-l.php:275
+#: ../car-list-r.php:275 ../car-list-thumb-l.php:252
+#: ../car-list-thumb-r.php:252 ../footer.php:78 ../single-car.php:299
+#: ../single-car.php:309 ../single-car.php:642
+#: ../templates/template-car-header.php:140
+#: ../templates/template-car-header.php:150
+msgid "Per Day"
+msgstr ""
+
+#: ../car-2-classic-l.php:266 ../car-2-classic-r.php:266
+#: ../car-2-classic.php:258 ../car-2-grid-l.php:204 ../car-2-grid-r.php:204
+#: ../car-2-grid.php:196 ../car-3-classic.php:258 ../car-3-grid.php:196
+#: ../car-4-classic.php:258 ../car-4-grid.php:133 ../car-list-l.php:290
+#: ../car-list-r.php:290 ../car-list-thumb-l.php:300
+#: ../car-list-thumb-r.php:300
+msgid "We haven't found any car that matches you're criteria"
+msgstr ""
+
+#: ../car-list-thumb-l.php:230 ../car-list-thumb-r.php:230
+#: ../single-car.php:171
+msgid "Doors"
+msgstr ""
+
+#: ../carcat-f.php:73
+msgid "By Brands"
+msgstr ""
+
+#: ../carcat-f.php:124
+msgid "By Types"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:17 ../comments.php:176
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../comments.php:17
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Leave A Review"
+msgstr ""
+
+#: ../comments.php:24
+msgid "1 Review"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Reviews"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Driving"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Interior Layout"
+msgstr ""
+
+#: ../comments.php:96
+msgid "Space & Practicality"
+msgstr ""
+
+#: ../comments.php:124
+msgid "Overall"
+msgstr ""
+
+#: ../comments.php:177
+msgid "Post Reply"
+msgstr ""
+
+#: ../comments.php:183
+msgid "Write A Review"
+msgstr ""
+
+#: ../comments.php:184
+msgid "Post Review"
+msgstr ""
+
+#: ../footer.php:25
+msgid "Recently View Cars"
+msgstr ""
+
+#: ../functions.php:412
+msgid "Updating..."
+msgstr ""
+
+#: ../functions.php:413
+msgid "Successfully Update"
+msgstr ""
+
+#: ../functions.php:428
+msgid "Theme Setting"
+msgstr ""
+
+#: ../functions.php:428 ../functions.php:473
+#: ../modules/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../functions.php:480 ../modules/content_builder/template.php:22
+msgid "Save"
+msgstr ""
+
+#: ../functions.php:640 ../functions.php:649
+msgid "Delete"
+msgstr ""
+
+#: ../functions.php:649
+msgid "Listen current music"
+msgstr ""
+
+#: ../functions.php:740
+msgid "Theme Default Font"
+msgstr ""
+
+#: ../functions.php:749
+msgid "Sample Text"
+msgstr ""
+
+#: ../functions.php:823
+msgid "Add"
+msgstr ""
+
+#: ../functions.php:1015 ../modules/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../functions.php:1017
+msgid "Cancel"
+msgstr ""
+
+#: ../functions.php:1030
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:1031
+msgid "Enter Title for this content"
+msgstr ""
+
+#: ../functions.php:1184
+msgid "top"
+msgstr ""
+
+#: ../functions.php:1187
+msgid "bottom"
+msgstr ""
+
+#: ../functions.php:1190
+msgid "left"
+msgstr ""
+
+#: ../functions.php:1193
+msgid "right"
+msgstr ""
+
+#: ../functions.php:1268 ../functions.php:1284
+msgid "Content"
+msgstr ""
+
+#: ../functions.php:1269 ../functions.php:1285
+msgid "You can enter text, HTML for its content"
+msgstr ""
+
+#: ../functions.php:1602 ../modules/content_builder.php:70
+#: ../modules/content_builder/template.php:73
+msgid "Preview"
+msgstr ""
+
+#: ../functions.php:1603
+msgid "Close"
+msgstr ""
+
+#: ../gallery.php:85
+msgid "Purchase"
+msgstr ""
+
+#: ../header.php:115
+#: ../modules/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr ""
+
+#: ../lib/config.lib.php:260
+msgid "Price Low to High"
+msgstr ""
+
+#: ../lib/config.lib.php:261
+msgid "Price High to Low"
+msgstr ""
+
+#: ../lib/config.lib.php:262
+msgid "Sort By Model"
+msgstr ""
+
+#: ../lib/config.lib.php:263
+msgid "Sort By Popularity"
+msgstr ""
+
+#: ../lib/config.lib.php:264
+msgid "Sort By Review Score"
+msgstr ""
+
+#: ../lib/config.lib.php:347
+msgid "Page Template"
+msgstr ""
+
+#: ../lib/config.lib.php:347
+msgid "Select template for this page"
+msgstr ""
+
+#: ../lib/config.lib.php:349 ../lib/customizer.lib.php:289
+msgid "Page Title"
+msgstr ""
+
+#: ../lib/config.lib.php:349
+msgid "Hide Default Page Header"
+msgstr ""
+
+#: ../lib/config.lib.php:349
+msgid "Check this option if you want to hide default page header"
+msgstr ""
+
+#: ../lib/config.lib.php:351
+msgid "Page Tagline"
+msgstr ""
+
+#: ../lib/config.lib.php:351
+msgid "Page Tagline (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:351
+msgid ""
+"Enter page tagline. It will displays under page title (*Note: HTML code also "
+"support)"
+msgstr ""
+
+#: ../lib/config.lib.php:354 ../lib/config.lib.php:366
+#: ../lib/config.lib.php:374
+msgid "Page Attributes"
+msgstr ""
+
+#: ../lib/config.lib.php:357
+msgid "Header Content Type"
+msgstr ""
+
+#: ../lib/config.lib.php:358
+msgid "Select header content type for this page."
+msgstr ""
+
+#: ../lib/config.lib.php:369
+msgid "Vimeo Video ID (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:370
+msgid "Please enter Vimeo Video ID for example 73317780"
+msgstr ""
+
+#: ../lib/config.lib.php:377
+msgid "Youtube Video ID (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:378
+msgid "Please enter Youtube Video ID for example 6AIdXisPqHc"
+msgstr ""
+
+#: ../lib/config.lib.php:381
+msgid "Select Sidebar (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:381
+msgid "Page Sidebar (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:381
+msgid ""
+"Select this page sidebar to display. To use this option, you have to select "
+"page template end with \"Sidebar\" only"
+msgstr ""
+
+#: ../lib/config.lib.php:383
+msgid "Select Menu"
+msgstr ""
+
+#: ../lib/config.lib.php:383
+msgid "Page Menu (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:383
+msgid ""
+"Select this page menu if you want to display main menu other than default one"
+msgstr ""
+
+#: ../lib/custom.lib.php:109
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../lib/custom.lib.php:128
+msgid "at"
+msgstr ""
+
+#: ../lib/custom.lib.php:134
+msgid "Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:134
+msgid "Login to Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:197
+msgid "Recent Posts"
+msgstr ""
+
+#: ../lib/custom.lib.php:969
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr ""
+
+#: ../lib/custom.lib.php:970
+msgid "Excerpts"
+msgstr ""
+
+#: ../lib/custom.lib.php:971
+msgid "Attachments"
+msgstr ""
+
+#: ../lib/custom.lib.php:972
+msgid "Links"
+msgstr ""
+
+#: ../lib/custom.lib.php:973
+msgid "Custom Fields"
+msgstr ""
+
+#: ../lib/custom.lib.php:974
+msgid "GUIDs"
+msgstr ""
+
+#: ../lib/custom.lib.php:1232
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: ../lib/custom.lib.php:1270
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../lib/custom.lib.php:1292
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../lib/custom.lib.php:1323
+msgid "Widget already exists"
+msgstr ""
+
+#: ../lib/custom.lib.php:1372
+msgid "Imported"
+msgstr ""
+
+#: ../lib/custom.lib.php:1375
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../lib/custom.lib.php:1382
+msgid "No Title"
+msgstr ""
+
+#: ../lib/custom.lib.php:1443 ../modules/content_builder.php:219
+msgid "Add Content After This"
+msgstr ""
+
+#: ../lib/custom.lib.php:1445 ../modules/content_builder.php:217
+msgid "Edit"
+msgstr ""
+
+#: ../lib/custom.lib.php:1447 ../modules/content_builder.php:215
+msgid "Duplicate"
+msgstr ""
+
+#: ../lib/custom.lib.php:1450 ../modules/content_builder.php:213
+#: ../modules/content_builder/template.php:48
+msgid "Remove"
+msgstr ""
+
+#: ../lib/customizer.lib.php:55 ../lib/customizer.lib.php:2054
+msgid "Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:56 ../lib/customizer.lib.php:2076
+msgid "Background Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:57
+msgid "No Repeat"
+msgstr ""
+
+#: ../lib/customizer.lib.php:58
+msgid "Repeat All"
+msgstr ""
+
+#: ../lib/customizer.lib.php:59
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../lib/customizer.lib.php:60
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../lib/customizer.lib.php:61
+msgid "Inherit"
+msgstr ""
+
+#: ../lib/customizer.lib.php:62
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lib/customizer.lib.php:63
+msgid "Cover"
+msgstr ""
+
+#: ../lib/customizer.lib.php:64
+msgid "Contain"
+msgstr ""
+
+#: ../lib/customizer.lib.php:65
+msgid "Background Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:66
+msgid "Fixed"
+msgstr ""
+
+#: ../lib/customizer.lib.php:67
+msgid "Scroll"
+msgstr ""
+
+#: ../lib/customizer.lib.php:68
+msgid "Background Attachment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:69
+msgid "Left Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:70
+msgid "Left Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:71
+msgid "Left Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:72
+msgid "Right Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:73
+msgid "Right Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:74
+msgid "Right Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:75
+msgid "Center Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:76
+msgid "Center Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:77
+msgid "Center Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:78
+msgid "Background Position"
+msgstr ""
+
+#: ../lib/customizer.lib.php:79
+msgid "Background Opacity"
+msgstr ""
+
+#: ../lib/customizer.lib.php:80
+msgid "ON"
+msgstr ""
+
+#: ../lib/customizer.lib.php:81
+msgid "OFF"
+msgstr ""
+
+#: ../lib/customizer.lib.php:82
+msgid "All"
+msgstr ""
+
+#: ../lib/customizer.lib.php:83
+msgid "Cyrillic"
+msgstr ""
+
+#: ../lib/customizer.lib.php:84
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:85
+msgid "Devanagari"
+msgstr ""
+
+#: ../lib/customizer.lib.php:86
+msgid "Greek"
+msgstr ""
+
+#: ../lib/customizer.lib.php:87
+msgid "Greek Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:88
+msgid "Khmer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:89
+msgid "Latin"
+msgstr ""
+
+#: ../lib/customizer.lib.php:90
+msgid "Latin Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:91
+msgid "Vietnamese"
+msgstr ""
+
+#: ../lib/customizer.lib.php:113 ../lib/customizer.lib.php:226
+#: ../lib/customizer.lib.php:310 ../lib/customizer.lib.php:331
+#: ../lib/customizer.lib.php:352 ../lib/customizer.lib.php:366
+#: ../lib/customizer.lib.php:378
+msgid "General"
+msgstr ""
+
+#: ../lib/customizer.lib.php:118
+msgid "Navigation"
+msgstr ""
+
+#: ../lib/customizer.lib.php:123
+msgid "Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:128
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:133
+msgid "Footer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:138
+msgid "Gallery"
+msgstr ""
+
+#: ../lib/customizer.lib.php:143
+msgid "Car"
+msgstr ""
+
+#: ../lib/customizer.lib.php:148
+msgid "Blog"
+msgstr ""
+
+#: ../lib/customizer.lib.php:156 ../modules/woocommerce.php:7
+msgid "Shop"
+msgstr ""
+
+#: ../lib/customizer.lib.php:164
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../lib/customizer.lib.php:170
+msgid "Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:177 ../lib/customizer.lib.php:233
+#: ../lib/customizer.lib.php:317
+msgid "Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:184
+msgid "Background & Colors"
+msgstr ""
+
+#: ../lib/customizer.lib.php:191
+msgid "Input and Button Elements"
+msgstr ""
+
+#: ../lib/customizer.lib.php:198
+msgid "Sharing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:205
+msgid "Mobile"
+msgstr ""
+
+#: ../lib/customizer.lib.php:212
+msgid "Frame"
+msgstr ""
+
+#: ../lib/customizer.lib.php:219
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:240 ../lib/customizer.lib.php:324
+#: ../lib/customizer.lib.php:338
+msgid "Colors"
+msgstr ""
+
+#: ../lib/customizer.lib.php:247
+msgid "Sub Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:254
+msgid "Mega Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:261
+msgid "Top Bar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:268
+msgid "Contact Info"
+msgstr ""
+
+#: ../lib/customizer.lib.php:275
+msgid "Side Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:282
+msgid "Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:296
+msgid "Content Builder Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:303
+msgid "Page Tagline & Sub Title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:345
+msgid "Copyright"
+msgstr ""
+
+#: ../lib/customizer.lib.php:359
+msgid "Lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:372
+msgid "Single Car Page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:385
+msgid "Single Post"
+msgstr ""
+
+#: ../lib/customizer.lib.php:395
+msgid "Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:402
+msgid "Single Product"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1332
+msgid "Favicon"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1333
+msgid ""
+"A favicon is a 16x16 pixel icon that represents your site; paste the URL to "
+"a .ico image that you want to use as the image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1342
+msgid "Retina Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1343
+msgid ""
+"Retina Ready Image logo. It should be 2x size of normal logo. For example "
+"200x60px logo will displays at 100x30px"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1352
+msgid "Display Retina Logo in Theme Setting"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1353
+msgid ""
+"Check this to replace theme setting to your logo. It helps branding your site"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1362
+msgid "Retina Transparent Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1363
+msgid ""
+"Retina Ready Image logo for menu transparent page. It should be 2x size of "
+"normal logo. For example 200x60px logo will displays at 100x30px. Recommend "
+"logo color is white or bright color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1374
+msgid "Enable Right Click Protection"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1375
+msgid "Check this to disable right click."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1384
+msgid "Enable Image Dragging Protection"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1385
+msgid "Check this to disable dragging on all images."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1394
+msgid "Body and Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1402
+msgid "Main Content Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1419
+msgid "Main Content Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1437
+msgid "Header Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1445
+msgid "H1, H2, H3, H4, H5, H6 Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1462
+msgid "H1, H2, H3, H4, H5, H6 Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1486
+msgid "H1, H2, H3, H4, H5, H6 Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1512
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1529
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1546
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1563
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1580
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1597
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1614
+msgid "Main Content Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1634
+msgid "Page Content Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1666
+msgid "Page Content Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1704
+msgid "Page Content Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1742
+msgid "H1, H2, H3, H4, H5, H6 Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1762
+msgid "Horizontal Line Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1785
+msgid "Review Stars Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1815
+msgid "Input and Textarea Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1823
+msgid "Input and Textarea Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1839
+msgid "Input and Textarea Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1855
+msgid "Input and Textarea Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1871
+msgid "Input and Textarea Focus State Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1887
+msgid "Button Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1895
+msgid "Button Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1912
+msgid "Button Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1962
+msgid "Button Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1985
+msgid "Button Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2008
+msgid "Enable Responsive Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2009
+msgid "Check this to enable responsive layout for tablet and mobile devices."
+msgstr ""
+
+#: ../lib/customizer.lib.php:2018
+msgid "Enable Frame"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2019
+msgid "Check this to enable frame for site layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2028
+msgid "Frame Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2044
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2045
+msgid "Check this to enable boxed layout for site layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2077
+msgid "Upload background image for boxed layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2088
+msgid "Menu Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2098
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2099
+msgid "Enable this option to display main menu fixed when scrolling"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2108
+msgid "Enable Smart Sticky Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2109
+msgid ""
+"Enable this option to make menu displays when scroll down and hide when "
+"scroll up"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2118
+msgid "Menu Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2135
+msgid "Menu Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2153
+msgid "Menu Padding"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2176
+msgid "Menu Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2193
+msgid "Menu Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2211
+msgid "Menu Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2228
+msgid "Menu Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2251
+msgid "Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2271
+msgid "Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2287
+msgid "Menu Active State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2303
+msgid "Menu Bar Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2326 ../lib/customizer.lib.php:2629
+msgid "Typography Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2334
+msgid "SubMenu Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2352
+msgid "SubMenu Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2369
+msgid "SubMenu Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2387
+msgid "SubMenu Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2404 ../lib/customizer.lib.php:2731
+msgid "Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2412
+msgid "Sub Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2428
+msgid "Sub Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2444
+msgid "Sub Menu Hover State Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2460
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2476
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2492
+msgid "Mega Menu Header Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2508
+msgid "Mega Menu Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2524
+msgid "Display Top Bar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2525
+msgid "Enable this option to display top bar above main menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2534
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2550
+msgid "Top Bar Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2566
+msgid "Contact Address (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2567
+msgid "Enter your company contact address."
+msgstr ""
+
+#: ../lib/customizer.lib.php:2577
+msgid "Contact Hours (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2578
+msgid "Enter your company contact hours."
+msgstr ""
+
+#: ../lib/customizer.lib.php:2588
+msgid "Contact Phone Number (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2589
+msgid "Enter your company contact phone number."
+msgstr ""
+
+#: ../lib/customizer.lib.php:2599
+msgid "Open Top Bar Social Icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2600
+msgid "Check this to open top bar social icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2609
+msgid "Enable Side Menu on Desktop"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2619
+msgid "Side Menu Alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2637
+msgid "Side Menu Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2654
+msgid "Side Menu Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2672
+msgid "Side Menu Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2696
+msgid "Side Menu Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2713
+msgid "Side Menu Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2739
+msgid "Side Menu Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2761
+msgid "Side Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2777
+msgid "Side Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2793
+msgid "Search Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2801
+msgid "Enable Search"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2802
+msgid "Select to display search form in header of side menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2811
+msgid "Search Input Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2827
+msgid "Search Input Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2857
+msgid "Background Image Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2865
+msgid "Page Title Background Image Height (in pixels)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2883
+msgid "Add Parallax Effect When Scroll"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2884
+msgid ""
+"Enable this option to add parallax effect to header background image when "
+"scrolling pass it"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2893
+msgid "Background Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2901
+msgid "Page Header Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2917
+msgid "Page Header Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2940
+msgid "Page Header Padding Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2958
+msgid "Page Header Padding Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2976 ../lib/customizer.lib.php:3120
+msgid "Page Title Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2994
+msgid "Page Title Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3011
+msgid "Page Title Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3028
+msgid "Page Title Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3046
+msgid "Page Title Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3062
+msgid " Content Builder Header Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3080
+msgid "Content Builder Header Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3097
+msgid "Page Tagline Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3138
+msgid "Page Tagline Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3155
+msgid "Page Tagline Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3173
+msgid "Page Tagline Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3191
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3192
+msgid "Check this to displays sidebar fixed when scrolling."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3201
+msgid "Widget Title Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3218
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3236
+msgid "Widget Title Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3253
+msgid "Widget Title Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3271
+msgid "Widget Title Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3288
+msgid "Sidebar Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3304
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3320
+msgid "Sidebar Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3336
+msgid "Sidebar Widget Title Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3355
+msgid "Footer Sidebar Columns"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3365
+msgid "Open Footer Social Icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3366
+msgid "Check this to open footer social icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3375
+msgid "Footer Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3397
+msgid "Footer Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3413
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3436
+msgid "Footer Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3452
+msgid "Footer Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3475
+msgid "Footer Social Icon Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3491
+msgid "Copyright Text"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3492
+msgid "Enter your copyright text."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3502
+msgid "Copyright Right Area Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3512
+msgid "Go To Top Button"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3525
+msgid "Global Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3533
+msgid "Gallery Images Sorting"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3544
+msgid "Select lightbox skin color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3545
+msgid "Select which skin you want to use for lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3555
+msgid "Display image caption in lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3556
+msgid ""
+"Check if you want to display image caption under the image in lightbox mode"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3565
+msgid "Select lightbox thumbnails alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3566
+msgid "Select which alignment you want to use for lightbox thumbnails"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3576
+msgid "Lightbox Overlay Opacity"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3590
+msgid "Currency Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3598
+msgid "Currency"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3599
+msgid "Enter default car pricing currency."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3608
+msgid "Currency Display"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3609
+msgid "Select how currency display between car price"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3622
+msgid "Thousand Separator"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3623
+msgid "Enter thousand separator of displayed price."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3632
+msgid "Decimal Separator"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3633
+msgid "Enter decimal separator of displayed price."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3642
+msgid "Number of Separator"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3643
+msgid "Enter number of decimal points for displayed price."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3652
+msgid "Other Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3660
+msgid "Enable Recently View Cars"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3661
+msgid "Check this option to enable recently view cars before footer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3670
+msgid "Display Car Header Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3671
+msgid "Check this option to display car header content in single car page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3680
+msgid "Enable Car Review"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3681
+msgid "Check this option to enable car review"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3690
+msgid "Enable Car Sharing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3691
+msgid "Check this option to enable car sharing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3700
+msgid "Display Similar Cars"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3701
+msgid "Check this option to display similar cars on single car page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3713
+msgid "Display Full Blog Post Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3714
+msgid ""
+"Check this option to display post full content in blog page (excerpt blog "
+"grid layout)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3723
+msgid "Archive Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3724
+msgid "Select page layout for displaying archive page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3734
+msgid "Category Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3735
+msgid "Select page layout for displaying category page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3745
+msgid "Tag Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3746
+msgid "Select page layout for displaying tag page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3756
+msgid "Display Post Featured Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3757
+msgid ""
+"Check this to display featured content (image or gallery) in single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3766
+msgid "Display Post Tags"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3767
+msgid "Check this option to display post tags on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3776
+msgid "Display About Author"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3777
+msgid "Check this option to display about author on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3786
+msgid "Display Related Posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3787
+msgid "Check this option to display related posts on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3801
+msgid "Shop Main Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3802
+msgid "Select page layout for displaying shop's products page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3812
+msgid "Products Page Show At Most"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3813
+msgid "Select number of product items you want to display per page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3823
+msgid "Product Price Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3839
+msgid "Display Related Products"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3840
+msgid "Check this option to display related products on single product page"
+msgstr ""
+
+#: ../lib/menu.lib.php:7
+msgid "Primary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:11
+msgid "Demo Primary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:14
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:15
+msgid "Side (Mobile) Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:16
+msgid "Footer Menu"
+msgstr ""
+
+#: ../lib/tgm.lib.php:129 ../modules/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/tgm.lib.php:130 ../modules/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/tgm.lib.php:131 ../modules/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/tgm.lib.php:132 ../modules/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/tgm.lib.php:133 ../modules/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/tgm.lib.php:134 ../modules/class-tgm-plugin-activation.php:394
+#: ../modules/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/tgm.lib.php:135
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../lib/widgets.lib.php:440
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets.lib.php:444
+msgid "Profile Image:"
+msgstr ""
+
+#: ../lib/widgets.lib.php:446
+msgid "Select Image"
+msgstr ""
+
+#: ../lib/widgets.lib.php:450
+msgid "Description:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:393
+#: ../modules/class-tgm-plugin-activation.php:912
+#: ../modules/class-tgm-plugin-activation.php:2618
+#: ../modules/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:395
+#: ../modules/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1019
+#: ../modules/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#: ../modules/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#: ../modules/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/content_builder.php:66
+msgid "Open Developer View"
+msgstr ""
+
+#: ../modules/content_builder.php:68
+msgid "Templates"
+msgstr ""
+
+#: ../modules/content_builder.php:82
+msgid "Undo"
+msgstr ""
+
+#: ../modules/content_builder.php:84
+msgid "Redo"
+msgstr ""
+
+#: ../modules/content_builder.php:86
+msgid "Unsaved Page Content."
+msgstr ""
+
+#: ../modules/content_builder.php:88
+msgid "Live View"
+msgstr ""
+
+#: ../modules/content_builder.php:90
+msgid "Classic View"
+msgstr ""
+
+#: ../modules/content_builder.php:92 ../modules/content_builder.php:248
+msgid "Add Content"
+msgstr ""
+
+#: ../modules/content_builder.php:94
+msgid "Saved"
+msgstr ""
+
+#: ../modules/content_builder.php:94
+msgid "Save Changes"
+msgstr ""
+
+#: ../modules/content_builder.php:96
+msgid "Content Builder Documentation"
+msgstr ""
+
+#: ../modules/content_builder.php:128
+msgid "You are editing"
+msgstr ""
+
+#: ../modules/content_builder.php:206
+msgid "Increase Size"
+msgstr ""
+
+#: ../modules/content_builder.php:207
+msgid "Decrease Size"
+msgstr ""
+
+#: ../modules/content_builder.php:241
+msgid "Get started"
+msgstr ""
+
+#: ../modules/content_builder.php:242
+msgid ""
+"Currently you have no content. Start adding content by clicking button below"
+msgstr ""
+
+#: ../modules/content_builder.php:255
+msgid "Import Template"
+msgstr ""
+
+#: ../modules/content_builder.php:270
+msgid "Import"
+msgstr ""
+
+#: ../modules/content_builder.php:271
+msgid "Export"
+msgstr ""
+
+#: ../modules/content_builder.php:275
+msgid "Import Page Content Builder"
+msgstr ""
+
+#: ../modules/content_builder.php:276
+msgid ""
+"Choose the import file. *Note: Your current content builder content will be "
+"overwritten by imported data"
+msgstr ""
+
+#: ../modules/content_builder.php:286
+msgid "Export Current Page Content Builder"
+msgstr ""
+
+#: ../modules/content_builder.php:287
+msgid ""
+"Click to export current content builder data. *Note: Please make sure you "
+"save all changes and no \"unsaved\" module"
+msgstr ""
+
+#: ../modules/content_builder.php:311
+msgid "There are unsaved content builder settings"
+msgstr ""
+
+#: ../modules/content_builder/template.php:11
+msgid "My Templates"
+msgstr ""
+
+#: ../modules/content_builder/template.php:12
+msgid "Predefined Templates"
+msgstr ""
+
+#: ../modules/content_builder/template.php:18
+msgid "Save Current Page as Template"
+msgstr ""
+
+#: ../modules/content_builder/template.php:21
+msgid "Template Name"
+msgstr ""
+
+#: ../modules/content_builder/template.php:25
+msgid "Template Name must have at least 3 characters"
+msgstr ""
+
+#: ../modules/content_builder/template.php:30
+msgid "Saved Templates"
+msgstr ""
+
+#: ../modules/content_builder/template.php:31
+msgid "Predefined templates are built-in theme using demo pages"
+msgstr ""
+
+#: ../modules/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: ../search.php:28
+msgid "If you didn't find what you were looking for, try a new search."
+msgstr ""
+
+#: ../single-car.php:109
+msgid "Passengers"
+msgstr ""
+
+#: ../single-car.php:113
+msgid "Passenger"
+msgstr ""
+
+#: ../single-car.php:134
+msgid "Luggages"
+msgstr ""
+
+#: ../single-car.php:138
+msgid "Luggage"
+msgstr ""
+
+#: ../single-car.php:198
+msgid "Included"
+msgstr ""
+
+#: ../single-car.php:232
+msgid "Not Included"
+msgstr ""
+
+#: ../single-car.php:319 ../templates/template-car-header.php:160
+msgid "Per Hour"
+msgstr ""
+
+#: ../single-car.php:329 ../templates/template-car-header.php:170
+msgid "Airport Transfer"
+msgstr ""
+
+#: ../single-car.php:358
+msgid "or"
+msgstr ""
+
+#: ../single-car.php:361
+msgid "Please wait..."
+msgstr ""
+
+#: ../single-car.php:361
+msgid "Book Instantly"
+msgstr ""
+
+#: ../single-car.php:372
+msgid "This car's been viewed"
+msgstr ""
+
+#: ../single-car.php:372
+msgid "times in the past week"
+msgstr ""
+
+#: ../single-car.php:390
+msgid "Share this car"
+msgstr ""
+
+#: ../single-car.php:464
+msgid "Similar cars"
+msgstr ""
+
+#: ../templates/template-author.php:13
+msgid "Posted By"
+msgstr ""
+
+#: ../templates/template-car-header.php:80
+msgid "View Photos"
+msgstr ""
+
+#: ../templates/template-car-header.php:117
+msgid "Video Review"
+msgstr ""
+
+#: ../templates/template-car-search.php:97
+msgid "Any Brand"
+msgstr ""
+
+#: ../templates/template-car-search.php:115
+msgid "Any Type"
+msgstr ""
+
+#: ../templates/template-car-search.php:145 ../templates/template-header.php:63
+msgid "Search"
+msgstr ""
+
+#: ../templates/template-fullmenu.php:79 ../templates/template-sidemenu.php:26
+msgid "Search..."
+msgstr ""
+
+#: ../templates/template-header.php:55
+msgid "Blog Archives"
+msgstr ""
+
+#: ../templates/template-header.php:94
+msgid "Archive posts in "
+msgstr ""
+
+#: ../templates/template-header.php:113
+msgid "Search Results for "
+msgstr ""
+
+#: ../templates/template-post-related.php:35
+msgid "You might also like"
+msgstr ""
+
+#: ../templates/template-post-tags.php:20 ../templates/template-share.php:8
+msgid "Share"
+msgstr ""
+
+#: ../templates/template-share.php:12
+msgid "Share On Facebook"
+msgstr ""
+
+#: ../templates/template-share.php:13
+msgid "Share On Twitter"
+msgstr ""
+
+#: ../templates/template-share.php:14
+msgid "Share On Pinterest"
+msgstr ""
+
+#: ../templates/template-share.php:15
+msgid "Share On Google+"
+msgstr ""
+
+#: ../templates/template-share.php:16
+msgid "Share by Email"
+msgstr ""
+
+#: ../templates/template-topmenu-center-menus.php:295
+#: ../templates/template-topmenu-left.php:284
+msgid "View Cart"
+msgstr ""
+
+#: ../templates/template-topmenu-left.php:240
+#: ../templates/template-topmenu.php:284
+msgid "Setup Menu via Wordpress Dashboard > Appearance > Menus"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Leave a reply"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"
